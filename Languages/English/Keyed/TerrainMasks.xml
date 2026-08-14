@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QuarterTriangle>Eighth triangle</QuarterTriangle>
+  <QuaterTriangle_Nega>Eighth triangle negative</QuaterTriangle_Nega>
+
+  <QuarterTriangle_Left_Pos>Quarter triangle (left)</QuarterTriangle_Left_Pos>
+  <QuarterTriangle_Left_Neg>Quarter triangle negative (left)</QuarterTriangle_Left_Neg>
+  <QuarterTriangle_Right_Pos>Quarter triangle (right)</QuarterTriangle_Right_Pos>
+  <QuarterTriangle_Right_Neg>Quarter triangle negative (right)</QuarterTriangle_Right_Neg>
+
+  <QuarterSquare_EighthTriangle_Left_Pos>Quarter square and eighth triangle (left)</QuarterSquare_EighthTriangle_Left_Pos>
+  <QuarterSquare_EighthTriangle_Left_Neg>Quarter square and eighth triangle negative (left)</QuarterSquare_EighthTriangle_Left_Neg>
+  <QuarterSquare_EighthTriangle_Right_Pos>Quarter square and eighth triangle (right)</QuarterSquare_EighthTriangle_Right_Pos>
+  <QuarterSquare_EighthTriangle_Right_Neg>Quarter square and eighth triangle negative (right)</QuarterSquare_EighthTriangle_Right_Neg>
+
+  <QuarterSquare_Pos>Quarter square</QuarterSquare_Pos>
+  <QuarterSquare_Neg>Quarter square negative</QuarterSquare_Neg>
+
+  <QuarterCircle_Convex_Pos>Convex quarter circle (small)</QuarterCircle_Convex_Pos>
+  <QuarterCircle_Convex_Neg>Convex quarter circle negative (small)</QuarterCircle_Convex_Neg>
+  <QuarterCircle_Concave_Pos>Concave quarter circle (small)</QuarterCircle_Concave_Pos>
+  <QuarterCircle_Concave_Neg>Concave quarter circle negative (small)</QuarterCircle_Concave_Neg>
+
+  <HalfDiamond_Pos>Half diamond</HalfDiamond_Pos>
+  <HalfDiamond_Neg>Half diamond negative</HalfDiamond_Neg>
+</LanguageData>

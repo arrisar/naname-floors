@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QuarterTriangle>八分三角形</QuarterTriangle>
+  <QuaterTriangle_Nega>八分三角形ネガ</QuaterTriangle_Nega>
+
+  <QuarterTriangle_Left_Pos>四分三角形（左）</QuarterTriangle_Left_Pos>
+  <QuarterTriangle_Left_Neg>四分三角形ネガ（左）</QuarterTriangle_Left_Neg>
+  <QuarterTriangle_Right_Pos>四分三角形（右）</QuarterTriangle_Right_Pos>
+  <QuarterTriangle_Right_Neg>四分三角形ネガ（右）</QuarterTriangle_Right_Neg>
+
+  <QuarterSquare_EighthTriangle_Left_Pos>四分正方形＋八分三角形（左）</QuarterSquare_EighthTriangle_Left_Pos>
+  <QuarterSquare_EighthTriangle_Left_Neg>四分正方形＋八分三角形ネガ（左）</QuarterSquare_EighthTriangle_Left_Neg>
+  <QuarterSquare_EighthTriangle_Right_Pos>四分正方形＋八分三角形（右）</QuarterSquare_EighthTriangle_Right_Pos>
+  <QuarterSquare_EighthTriangle_Right_Neg>四分正方形＋八分三角形ネガ（右）</QuarterSquare_EighthTriangle_Right_Neg>
+
+  <QuarterSquare_Pos>四分正方形</QuarterSquare_Pos>
+  <QuarterSquare_Neg>四分正方形ネガ</QuarterSquare_Neg>
+
+  <QuarterCircle_Convex_Pos>凸四分円（小）</QuarterCircle_Convex_Pos>
+  <QuarterCircle_Convex_Neg>凸四分円ネガ（小）</QuarterCircle_Convex_Neg>
+  <QuarterCircle_Concave_Pos>凹四分円（小）</QuarterCircle_Concave_Pos>
+  <QuarterCircle_Concave_Neg>凹四分円ネガ（小）</QuarterCircle_Concave_Neg>
+
+  <HalfDiamond_Pos>ハーフ菱形</HalfDiamond_Pos>
+  <HalfDiamond_Neg>ハーフ菱形ネガ</HalfDiamond_Neg>
+</LanguageData>
