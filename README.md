@@ -1,7 +1,7 @@
 # NANAME Floors: Expanded
 
 An add-on for [NANAME Floors](https://steamcommunity.com/sharedfiles/filedetails/?id=3293767181)
-by OELS, adding new terrain mask shapes.
+by LS, adding new terrain mask shapes.
 
 Right now, this mod is **content only**. NANAME Floors discovers masks in *any* mod 
 under `Textures/NanameFloors/TerrainMasks`.
@@ -58,11 +58,11 @@ ln -s ~/dev/arrisar/naname-floors \
   "$HOME/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Mods/NanameFloorsExpanded"
 ```
 
-Thumbnails for this README are the masks recoloured for legibility. Rebuild them with 
-`python3 tools/thumbnails.py` after adding or changing a mask.
+Thumbnails for this README are the masks recoloured for legibility. Rebuild them 
+with `python tools/thumbnails.py` after adding or changing a mask.
 
 Texture changes require a game restart - masks are cached in a startup step.
 
 ## Licence
 
-MIT. NANAME Floors itself is MIT © OELS and is not redistributed here.
+MIT. NANAME Floors itself is MIT © LS and is not redistributed here.

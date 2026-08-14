@@ -3,7 +3,7 @@
 Render the README thumbnails for every mask in Textures/NanameFloors/TerrainMasks.
 Run from anywhere after adding or changing a mask:
 
-    python3 tools/thumbnails.py
+    python tools/thumbnails.py
 
 Requires Pillow.
 """

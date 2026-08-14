@@ -4,7 +4,7 @@
   <packageId>arrisar.nanamefloors.expanded</packageId>
   <author>arrisar</author>
   <description>NANAME Floors: Expanded
-    An add-on for NANAME Floors by OELS. Adding new terrain mask shapes to the floor shape picker.
+    An add-on for NANAME Floors by LS. Adding new terrain mask shapes to the floor shape picker.
     Removing this mod from an existing save will remove any floors built with these shapes.</description>
   <url>https://github.com/arrisar/naname-floors</url>
 
@@ -19,11 +19,6 @@
       <packageId>oels.nanamefloors</packageId>
       <displayName>NANAME Floors</displayName>
       <steamWorkshopUrl>steam://url/CommunityFilePage/3293767181</steamWorkshopUrl>
-    </li>
-    <li>
-      <packageId>brrainz.harmony</packageId>
-      <displayName>Harmony</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
     </li>
   </modDependencies>
 
